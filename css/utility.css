@@ -1,0 +1,23 @@
+@media screen and (max-width: 1120px) {
+  html {
+    font-size: 62.5%;
+  }
+}
+@media screen and (max-width: 600px) {
+  html {
+    font-size: 58%;
+  }
+}
+@media screen and (max-width: 450px) {
+  html {
+    font-size: 45%;
+  }
+  .flame {
+    top: -24rem;
+    left: 3rem;
+  }
+  .candle {
+    top: -20rem;
+    left: 3rem;
+  }
+}
